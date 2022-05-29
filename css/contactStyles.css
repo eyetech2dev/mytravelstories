@@ -1,0 +1,18 @@
+img {
+    height: 300px;
+}
+.yourDetails {
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: fit-content;
+    padding: 10px 600px 10px 5px;
+}
+#facebook {
+    margin-left: 10px;
+}
+textarea {
+    margin: 20px 0;
+}
+div {
+    margin: 15px 0;
+}
